@@ -1,27 +1,24 @@
 {
   "name": "react-native-switch-pro",
-  "version": "1.0.5",
-  "description": "an universal switcher for andriod and iOS",
+  "version": "1.0.6",
+  "description": "A universal switcher for andriod, iOS, and web",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/poberwong/react-native-switch-pro.git"
-  },
-  "dependencies": {
-    "prop-types": "^15.5.10"
+    "url": "git+https://github.com/actuallydan/react-native-switch-pro.git"
   },
   "keywords": [
     "switch",
     "universal",
     "react-native"
   ],
-  "author": "poberwong",
+  "author": "Dan Kral",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/poberwong/react-native-switch-pro/issues"
+    "url": "https://github.com/actuallydan/react-native-switch-pro/issues"
   },
-  "homepage": "https://github.com/poberwong/react-native-switch-pro#readme"
+  "homepage": "https://github.com/actuallydan/react-native-switch-pro#readme"
 }
